@@ -1,4 +1,4 @@
-# 💰 SpendWise — Premium iOS Expense Tracker
+#  SpendWise — Premium iOS Expense Tracker
 
 <p align="center">
   <img src="screenshots/03_dashboard.png" width="200" />
@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 Problem It Solves
+##  Problem It Solves
 
 India processes **12+ billion UPI transactions monthly**, yet most people have no idea where their money goes. Bank apps show raw transactions without insights. SpendWise solves this by:
 
